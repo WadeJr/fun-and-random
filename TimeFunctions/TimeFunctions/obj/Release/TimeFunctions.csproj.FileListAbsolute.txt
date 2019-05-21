@@ -1,0 +1,5 @@
+C:\Users\wade2\Desktop\Hacking\Fun\TimeFunctions\TimeFunctions\bin\Release\TimeFunctions.dll
+C:\Users\wade2\Desktop\Hacking\Fun\TimeFunctions\TimeFunctions\bin\Release\TimeFunctions.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\TimeFunctions\TimeFunctions\obj\Release\TimeFunctions.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\TimeFunctions\TimeFunctions\obj\Release\TimeFunctions.dll
+C:\Users\wade2\Desktop\Hacking\Fun\TimeFunctions\TimeFunctions\obj\Release\TimeFunctions.pdb

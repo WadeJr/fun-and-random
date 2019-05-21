@@ -1,0 +1,11 @@
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\bin\Debug\AmazonConsole.exe.config
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\bin\Debug\AmazonConsole.exe
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\bin\Debug\AmazonConsole.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\bin\Debug\HtmlAgilityPack.dll
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\bin\Debug\HtmlAgilityPack.xml
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\obj\Debug\AmazonConsole.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\obj\Debug\AmazonConsole.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\obj\Debug\AmazonConsole.csproj.CopyComplete
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\obj\Debug\AmazonConsole.exe
+C:\Users\wade2\Desktop\Hacking\Fun\AmazonConsole\AmazonConsole\obj\Debug\AmazonConsole.pdb

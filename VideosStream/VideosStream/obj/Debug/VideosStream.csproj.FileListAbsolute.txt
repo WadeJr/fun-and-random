@@ -1,0 +1,5 @@
+C:\Users\wade2\Desktop\Hacking\Fun\VideosStream\VideosStream\obj\Debug\VideosStream.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\VideosStream\VideosStream\obj\Debug\VideosStream.Vid.resources
+C:\Users\wade2\Desktop\Hacking\Fun\VideosStream\VideosStream\obj\Debug\VideosStream.Properties.Resources.resources
+C:\Users\wade2\Desktop\Hacking\Fun\VideosStream\VideosStream\obj\Debug\VideosStream.csproj.GenerateResource.cache
+C:\Users\wade2\Desktop\Hacking\Fun\VideosStream\VideosStream\obj\Debug\VideosStream.csproj.CoreCompileInputs.cache

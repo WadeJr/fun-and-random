@@ -1,0 +1,11 @@
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\bin\Debug\SeleniumLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\bin\Debug\SeleniumLib.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\bin\Debug\WebDriver.dll
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\bin\Debug\WebDriver.Support.dll
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\bin\Debug\WebDriver.xml
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\bin\Debug\WebDriver.Support.xml
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\obj\Debug\SeleniumLib.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\obj\Debug\SeleniumLib.csproj.CopyComplete
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\obj\Debug\SeleniumLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\obj\Debug\SeleniumLib.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\SeleniumLib\SeleniumLib\obj\Debug\SeleniumLib.csprojAssemblyReference.cache

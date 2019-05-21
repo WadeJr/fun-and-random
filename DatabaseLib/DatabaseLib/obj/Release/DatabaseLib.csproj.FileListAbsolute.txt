@@ -1,0 +1,12 @@
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\bin\Release\DatabaseLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\bin\Release\DatabaseLib.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\obj\Release\DatabaseLib.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\obj\Release\DatabaseLib.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\obj\Release\DatabaseLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\obj\Release\DatabaseLib.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\bin\Release\Dapper.dll
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\bin\Release\System.Data.SQLite.dll
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\bin\Release\Dapper.xml
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\bin\Release\System.Data.SQLite.xml
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\bin\Release\System.Data.SQLite.dll.config
+C:\Users\wade2\Desktop\Hacking\Fun\DatabaseLib\DatabaseLib\obj\Release\DatabaseLib.csproj.CopyComplete

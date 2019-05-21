@@ -1,0 +1,14 @@
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\bin\Debug\CardCounting.exe.config
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\bin\Debug\CardCounting.exe
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\bin\Debug\CardCounting.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\bin\Debug\SimpleTCP.dll
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\obj\Debug\CardCounting.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\obj\Debug\CardCounting.Cards.resources
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\obj\Debug\CardCounting.Game.resources
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\obj\Debug\CardCounting.Properties.Resources.resources
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\obj\Debug\CardCounting.csproj.GenerateResource.cache
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\obj\Debug\CardCounting.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\obj\Debug\CardCounting.csproj.CopyComplete
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\obj\Debug\CardCounting.exe
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\obj\Debug\CardCounting.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\CardCounting\CardCounting\obj\Debug\CardCounting.Player.resources

@@ -1,0 +1,14 @@
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\bin\Debug\Winium.exe.config
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\bin\Debug\Winium.exe
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\bin\Debug\Winium.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\bin\Debug\WebDriver.dll
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\bin\Debug\Winium.WebDriver.dll
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\bin\Debug\WebDriver.xml
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\obj\Debug\Winium.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\obj\Debug\Winium.Form1.resources
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\obj\Debug\Winium.Properties.Resources.resources
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\obj\Debug\Winium.csproj.GenerateResource.cache
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\obj\Debug\Winium.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\obj\Debug\Winium.csproj.CopyComplete
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\obj\Debug\Winium.exe
+C:\Users\wade2\Desktop\Hacking\Fun\Winium\Winium\obj\Debug\Winium.pdb

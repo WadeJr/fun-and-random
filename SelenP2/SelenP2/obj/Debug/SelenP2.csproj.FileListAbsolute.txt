@@ -1,0 +1,13 @@
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\obj\Debug\SelenP2.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\obj\Debug\SelenP2.Form1.resources
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\obj\Debug\SelenP2.Properties.Resources.resources
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\obj\Debug\SelenP2.csproj.GenerateResource.cache
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\obj\Debug\SelenP2.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\bin\Debug\SelenP2.exe.config
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\bin\Debug\SelenP2.exe
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\bin\Debug\SelenP2.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\bin\Debug\WebDriver.dll
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\bin\Debug\WebDriver.xml
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\obj\Debug\SelenP2.csproj.CopyComplete
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\obj\Debug\SelenP2.exe
+C:\Users\wade2\Desktop\Hacking\Fun\SelenP2\SelenP2\obj\Debug\SelenP2.pdb

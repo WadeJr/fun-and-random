@@ -1,0 +1,13 @@
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Debug\SynologyService.exe.config
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Debug\SynologyService.exe
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Debug\SynologyService.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Debug\DirectoriesLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Debug\DirectoriesLib.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\obj\Debug\SynologyService.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\obj\Debug\SynologyService.csproj.CopyComplete
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\obj\Debug\SynologyService.exe
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\obj\Debug\SynologyService.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Debug\TimeFunctions.dll
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Debug\TimeFunctions.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\obj\Debug\SynologyService.ProjectInstaller.resources
+C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\obj\Debug\SynologyService.csproj.GenerateResource.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HackABull", "HackABull\HackABull.pyproj", "{62DD7BAC-7628-4FBB-9442-2A1946C8781C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DD7BAC-7628-4FBB-9442-2A1946C8781C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DD7BAC-7628-4FBB-9442-2A1946C8781C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DD7BAC-7628-4FBB-9442-2A1946C8781C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DD7BAC-7628-4FBB-9442-2A1946C8781C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B446051-1519-4B41-9304-86B61C33896D}
+	EndGlobalSection
+EndGlobal

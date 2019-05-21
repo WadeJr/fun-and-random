@@ -1,0 +1,17 @@
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\bin\Debug\Selenium.exe.config
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\bin\Debug\Selenium.exe
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\bin\Debug\WebDriver.xml
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\obj\Debug\Selenium.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\obj\Debug\Selenium.Selenium.resources
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\obj\Debug\Selenium.Properties.Resources.resources
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\obj\Debug\Selenium.csproj.GenerateResource.cache
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\obj\Debug\Selenium.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\obj\Debug\Selenium.csproj.CopyComplete
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\obj\Debug\Selenium.exe
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\obj\Debug\Selenium.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\wade2\Desktop\Hacking\Fun\Selenium\Selenium\Selenium\bin\Debug\Selenium.WebDriverBackedSelenium.xml

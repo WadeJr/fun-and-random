@@ -1,0 +1,13 @@
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\bin\Debug\ClassEntry.exe.config
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\bin\Debug\ClassEntry.exe
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\bin\Debug\ClassEntry.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\bin\Debug\WebDriver.dll
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\bin\Debug\WebDriver.xml
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\obj\Debug\ClassEntry.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\obj\Debug\ClassEntry.Entry.resources
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\obj\Debug\ClassEntry.Properties.Resources.resources
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\obj\Debug\ClassEntry.csproj.GenerateResource.cache
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\obj\Debug\ClassEntry.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\obj\Debug\ClassEntry.csproj.CopyComplete
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\obj\Debug\ClassEntry.exe
+C:\Users\wade2\Desktop\Hacking\Fun\ClassEntry\ClassEntry\obj\Debug\ClassEntry.pdb

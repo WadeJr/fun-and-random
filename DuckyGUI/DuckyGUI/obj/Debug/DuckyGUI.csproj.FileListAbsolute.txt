@@ -1,0 +1,10 @@
+C:\Users\wade2\Desktop\Hacking\Fun\DuckyGUI\DuckyGUI\bin\Debug\DuckyGUI.exe.config
+C:\Users\wade2\Desktop\Hacking\Fun\DuckyGUI\DuckyGUI\bin\Debug\DuckyGUI.exe
+C:\Users\wade2\Desktop\Hacking\Fun\DuckyGUI\DuckyGUI\bin\Debug\DuckyGUI.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\DuckyGUI\DuckyGUI\obj\Debug\DuckyGUI.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\DuckyGUI\DuckyGUI\obj\Debug\DuckyGUI.GUI.resources
+C:\Users\wade2\Desktop\Hacking\Fun\DuckyGUI\DuckyGUI\obj\Debug\DuckyGUI.Properties.Resources.resources
+C:\Users\wade2\Desktop\Hacking\Fun\DuckyGUI\DuckyGUI\obj\Debug\DuckyGUI.csproj.GenerateResource.cache
+C:\Users\wade2\Desktop\Hacking\Fun\DuckyGUI\DuckyGUI\obj\Debug\DuckyGUI.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\DuckyGUI\DuckyGUI\obj\Debug\DuckyGUI.exe
+C:\Users\wade2\Desktop\Hacking\Fun\DuckyGUI\DuckyGUI\obj\Debug\DuckyGUI.pdb

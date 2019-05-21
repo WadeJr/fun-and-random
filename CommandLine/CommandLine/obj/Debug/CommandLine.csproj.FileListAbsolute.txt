@@ -1,0 +1,15 @@
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\bin\Debug\CommandLine.exe.config
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\bin\Debug\CommandLine.exe
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\bin\Debug\CommandLine.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\obj\Debug\CommandLine.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\obj\Debug\CommandLine.Form1.resources
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\obj\Debug\CommandLine.Properties.Resources.resources
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\obj\Debug\CommandLine.csproj.GenerateResource.cache
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\obj\Debug\CommandLine.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\obj\Debug\CommandLine.exe
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\obj\Debug\CommandLine.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\bin\Debug\WinSCP.exe
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\bin\Debug\Renci.SshNet.dll
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\bin\Debug\WinSCPnet.dll
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\bin\Debug\Renci.SshNet.xml
+C:\Users\wade2\Desktop\Hacking\Fun\CommandLine\CommandLine\obj\Debug\CommandLine.csproj.CopyComplete

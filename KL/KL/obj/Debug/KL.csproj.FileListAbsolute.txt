@@ -1,0 +1,7 @@
+C:\Users\wade2\Desktop\Hacking\Fun\KL\KL\bin\Debug\KL.exe.config
+C:\Users\wade2\Desktop\Hacking\Fun\KL\KL\bin\Debug\KL.exe
+C:\Users\wade2\Desktop\Hacking\Fun\KL\KL\obj\Debug\KL.csprojAssemblyReference.cache
+C:\Users\wade2\Desktop\Hacking\Fun\KL\KL\obj\Debug\KL.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\KL\KL\obj\Debug\KL.exe
+C:\Users\wade2\Desktop\Hacking\Fun\KL\KL\obj\Debug\KL.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\KL\KL\bin\Debug\KL.pdb

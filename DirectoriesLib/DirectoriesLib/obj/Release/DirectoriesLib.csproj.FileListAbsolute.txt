@@ -1,0 +1,5 @@
+C:\Users\wade2\Desktop\Hacking\Fun\DirectoriesLib\DirectoriesLib\obj\Release\DirectoriesLib.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\DirectoriesLib\DirectoriesLib\bin\Release\DirectoriesLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\DirectoriesLib\DirectoriesLib\bin\Release\DirectoriesLib.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\DirectoriesLib\DirectoriesLib\obj\Release\DirectoriesLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\DirectoriesLib\DirectoriesLib\obj\Release\DirectoriesLib.pdb

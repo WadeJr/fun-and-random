@@ -1,0 +1,6 @@
+1. start up the command prompt (CMD) with administrator rights.
+2.Type c:\windows\microsoft.net\framework\v4.0.30319\installutil.exe [your windows service path to exe]
+3.Press return.
+
+
+to uninstall add /u

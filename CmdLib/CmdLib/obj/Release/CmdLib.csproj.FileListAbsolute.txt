@@ -1,0 +1,5 @@
+C:\Users\wade2\Desktop\Hacking\Fun\CmdLib\CmdLib\bin\Release\CmdLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\CmdLib\CmdLib\bin\Release\CmdLib.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\CmdLib\CmdLib\obj\Release\CmdLib.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\CmdLib\CmdLib\obj\Release\CmdLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\CmdLib\CmdLib\obj\Release\CmdLib.pdb

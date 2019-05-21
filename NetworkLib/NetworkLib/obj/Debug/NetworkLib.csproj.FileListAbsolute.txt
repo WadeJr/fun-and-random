@@ -1,0 +1,6 @@
+C:\Users\wade2\Desktop\Hacking\Fun\NetworkLib\NetworkLib\bin\Debug\NetworkLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\NetworkLib\NetworkLib\bin\Debug\NetworkLib.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\NetworkLib\NetworkLib\obj\Debug\NetworkLib.csproj.CoreCompileInputs.cache
+C:\Users\wade2\Desktop\Hacking\Fun\NetworkLib\NetworkLib\obj\Debug\NetworkLib.dll
+C:\Users\wade2\Desktop\Hacking\Fun\NetworkLib\NetworkLib\obj\Debug\NetworkLib.pdb
+C:\Users\wade2\Desktop\Hacking\Fun\NetworkLib\NetworkLib\obj\Debug\NetworkLib.csprojAssemblyReference.cache

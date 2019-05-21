@@ -1,0 +1,77 @@
+﻿Installing assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
+Installing service Synology Service...
+Service Synology Service has been successfully installed.
+Creating EventLog source Synology Service in log Application...
+Committing assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
+Uninstalling assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
+Removing EventLog source Synology Service.
+Service Synology Service is being removed from the system...
+Service Synology Service was successfully removed from the system.
+Attempt to stop service Synology Service.
+Installing assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
+Installing service Synology Service...
+Service Synology Service has been successfully installed.
+Creating EventLog source Synology Service in log Application...
+Committing assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
+Uninstalling assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
+Removing EventLog source Synology Service.
+Service Synology Service is being removed from the system...
+Service Synology Service was successfully removed from the system.
+Installing assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
+Installing service Synology Service...
+Service Synology Service has been successfully installed.
+Creating EventLog source Synology Service in log Application...
+Committing assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
+Uninstalling assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
+Removing EventLog source Synology Service.
+Service Synology Service is being removed from the system...
+Service Synology Service was successfully removed from the system.
+Installing assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
+Installing service Synology Service...
+Service Synology Service has been successfully installed.
+Creating EventLog source Synology Service in log Application...
+Committing assembly 'C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.InstallLog
+   assemblypath = C:\Users\wade2\Desktop\Hacking\Fun\SynologyService\SynologyService\bin\Release\SynologyService.exe
