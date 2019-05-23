@@ -7,15 +7,15 @@ export default class Board extends Component {
         this.state = {
             notes: [
                 {
-                    id: 3,
+                    id: 0,
                     note: 'Call Lisa'
                 }, 
                 {
-                    id: 4,
+                    id: 1,
                     note: 'Email John'
                 },
                 {
-                    id: 5,
+                    id: 2,
                     note: 'Order printer ink'
                 }
             ]
