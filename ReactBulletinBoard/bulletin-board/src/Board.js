@@ -1,29 +1,19 @@
 import React, { Component } from 'react'
 import Note from './Note'
+import {FaPlusCircle} from 'react-icons/fa'
 
 export default class Board extends Component {
     constructor(props){
         super(props)
         this.state = {
-            notes: [
-                {
-                    id: 0,
-                    note: 'Call Lisa'
-                }, 
-                {
-                    id: 1,
-                    note: 'Email John'
-                },
-                {
-                    id: 2,
-                    note: 'Order printer ink'
-                }
-            ]
+            notes: []
         }
 
         this.eachNote = this.eachNote.bind(this)
         this.update = this.update.bind(this)
         this.remove = this.remove.bind(this)
+        this.addNote = this.addNote.bind(this)
+        this.newId = this.newId.bind(this)
 
     }
 
@@ -41,6 +31,23 @@ export default class Board extends Component {
         }))
     }
 
+    addNote(text) {
+        this.setState(prevState => ({
+            notes: [
+                ...prevState.notes,
+                {
+                    id: this.newId(),
+                    note: text
+                }
+            ]
+        }))
+    }
+
+    newId() {
+        this.uniqueId = this.uniqueId || 0
+        return this.uniqueId++
+    }
+
     eachNote(note, i) {
         return (
         <Note key={i} index={i} onChange={this.update} onRemove={this.remove}>
@@ -54,6 +61,11 @@ export default class Board extends Component {
         return (
             <div className='board'>
                 {this.state.notes.map(this.eachNote)}
+                <button onClick={this.addNote.bind(null, "New Note")}
+                        id='add'
+                >
+                   <FaPlusCircle /> 
+                </button>
             </div>
         )
     }
