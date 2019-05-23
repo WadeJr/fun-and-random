@@ -17,6 +17,10 @@ export default class Board extends Component {
 
     }
 
+    componentWillMount() {
+        
+    }
+
     remove(id) {
         this.setState(prevState => ({
             notes: prevState.notes.filter(note => note.id !== id)
