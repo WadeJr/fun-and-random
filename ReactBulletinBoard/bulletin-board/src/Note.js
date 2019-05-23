@@ -35,7 +35,7 @@ export class Note extends Component {
 
 
     remove() {
-        alert('Remove clicked')
+        this.props.onRemove(this.props.index)
     }
 
     renderForm() {

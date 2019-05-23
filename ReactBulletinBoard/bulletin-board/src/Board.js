@@ -23,7 +23,14 @@ export default class Board extends Component {
 
         this.eachNote = this.eachNote.bind(this)
         this.update = this.update.bind(this)
+        this.remove = this.remove.bind(this)
 
+    }
+
+    remove(id) {
+        this.setState(prevState => ({
+            notes: prevState.notes.filter(note => note.id !== id)
+        }))
     }
 
     update(newText, i) {
@@ -36,7 +43,7 @@ export default class Board extends Component {
 
     eachNote(note, i) {
         return (
-        <Note key={i} index={i} onChange={this.update}>
+        <Note key={i} index={i} onChange={this.update} onRemove={this.remove}>
             {note.note}
         </Note>
         )
