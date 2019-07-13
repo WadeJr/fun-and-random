@@ -209,4 +209,22 @@
     });
   }
 
+
+function func1() {
+  document.getElementById('messageBox').innerHTML = 'Hello, I am interested in getting a quote.'
+}
+function func2() {
+  document.getElementById('subber').value = 'Quote'
+}
+
+document.getElementById('btttn').onclick = function() {
+  func1();
+  func2();
+}
+
+
 })(jQuery);
+
+
+
+
